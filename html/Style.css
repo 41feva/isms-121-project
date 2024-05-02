@@ -1,0 +1,58 @@
+h1, h2, p{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+body {
+    background-image: url(https://cdn.businessday.ng/2022/02/PAUSE-.png)
+}
+.menu{
+    background-color: bisque;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.established {
+    font-style: italic;
+}
+hr{
+    height: 3px;
+}
+
+.item p {
+    display: inline-block;
+}
+.dessert, .flavor{
+    width: 75%;
+    text-align: left;
+}
+
+.price{
+    text-align: right;
+    width: 25%;
+ }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 23px;
+
+}
+h1, h2{
+    font-family: Castellar;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: chartreuse;
+}
+a:hover{
+    color: chocolate;
+}
+img{
+    background-color: bisque;
+}
